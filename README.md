@@ -7,10 +7,10 @@ You can ask one of the current members to invite you to the our slack channel. Y
 
 # Request Access
 You will need to be granted access to variouis platforms and resources that we use. Here is a list.
-**ID**: You will need to be granted access through you ID, to various doors around the building including the office space where we work. 
-**Github Repo**: You can access the repo at (https://hub.louisville.edu)
-**Plone**: This is a content management system mainly used to develop and maintain various websites including the new    ITS(https://louisville.edu/its) website.
-**Cardbox**: This file storage resource and as a University of Louisville student/employee, you can request a cardbox account. More information about doing this can be found here: (https://louisville.edu/its/cardbox/) after which you should request to be invited to the respective shared folders.
+-**ID**: You will need to be granted access through you ID, to various doors around the building including the office space where we work. 
+-**Github Repo**: You can access the repo at (https://hub.louisville.edu)
+-**Plone**: This is a content management system mainly used to develop and maintain various websites including the new    ITS(https://louisville.edu/its) website.
+-**Cardbox**: This file storage resource and as a University of Louisville student/employee, you can request a cardbox account. More information about doing this can be found here: (https://louisville.edu/its/cardbox/) after which you should request to be invited to the respective shared folders.
 
 
 # Software tools and applications to download
