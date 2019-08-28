@@ -1,9 +1,7 @@
-# Integrative Design and Development
-
-***developer orientation***
+# Integrative Design and Development : developer orientation
 This guide is to help new developers make a quick and organized transition into their new role with Area41
 
-# Communication Platforms
+***Communication Platforms***
 For most communications between and among team members are through #slack. 
 You can ask one of the current members to invite you to the our slack channel. You can use slac in the browser (https://slack.com/signin) or download(https://get.slack.help/hc/en-us/sections/360000110123-Download-the-Slack-app) it to your mobile device or computer.
 
