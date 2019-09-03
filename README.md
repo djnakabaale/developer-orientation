@@ -5,7 +5,7 @@ This guide is to help new developers make a quick and organized transition into 
 ### Communication Platforms
 <!--For most communications between and among team members are through #slack. 
 You can ask one of the current members to invite you to the the slack channel. You can use slack in the browser (https://slack.com/signin) or download(https://get.slack.help/hc/en-us/sections/360000110123-Download-the-Slack-app) the app. -->
-We are currently integrating *Microsoft Teams* as our communication platform under team name, *__Integrated Design & Development__*.
+We are currently integrating *Microsoft Teams* as our communication platform under team name, *__Integrative Design & Development__*.
 
 ### Request Access
 You will need to be granted access to variouis platforms and resources that we use. Here is a list;
